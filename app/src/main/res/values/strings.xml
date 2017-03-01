@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarm Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="First_name">Task Name</string>
+    <string name="Second_name">Types of task</string>
+    <string name="Third_name">Turn on notification</string>
+    <string name="Fourth_name">Choose Ringtone</string>
+    <string name="Fifth_name">Trigger Timing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

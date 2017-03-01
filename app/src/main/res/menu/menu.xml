@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ViewHistory"
+        android:orderInCategory="100"
+        android:title="View History"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Exit Application"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/DeleteHistory"
+        android:orderInCategory="100"
+        android:title="Delete History"
+        app:showAsAction="never"/>
+
+</menu>
